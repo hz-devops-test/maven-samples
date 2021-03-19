@@ -50,4 +50,6 @@ http\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-sprin
 https\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-spring-42.52.xsd
 http\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-spring-42.53.xsd
 https\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-spring-42.53.xsd
-http\://www.hazelcast.com/schema/spring/hazelcast-spring.xsd=hazelcast-spring-42.53.xsd
+http\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-spring-42.54.xsd
+https\://www.hazelcast.com/schema/spring/hazelcast-spring-4.0.xsd=hazelcast-spring-42.54.xsd
+http\://www.hazelcast.com/schema/spring/hazelcast-spring.xsd=hazelcast-spring-42.54.xsd
